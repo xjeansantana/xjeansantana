@@ -20,12 +20,12 @@
 
 ### 🧑‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e escaláveis. Minha stack principal envolve o desenvolvimento web moderno com **React** no front-end e a robustez do **C# / .NET** no back-end.
+Sou um desenvolvedor apaixonado por transformar ideias em código. Atualmente foco minhas energias no desenvolvimento web moderno, unindo a performance do **C# / .NET** com a agilidade do **React**.
 
-- 🔭 Atualmente explorando arquiteturas de microserviços.
-- 🌱 Aprimorando conhecimentos em **TypeScript** e **Cloud Computing**.
-- 💬 Aberto a colaborações em projetos Open Source.
-- ⚡ Hobby: Apaixonado por tecnologia e games.
+- 🔭 Atualmente trabalhando em projetos Full Stack.
+- 🌱 Aprofundando em **Arquitetura de Software** e **TypeScript**.
+- 💬 Pode me chamar para falar sobre desenvolvimento web e tecnologia.
+- ⚡ Curiosidade: Sempre em busca de aprender uma nova ferramenta.
 
 ---
 
@@ -44,13 +44,13 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
   <h2>📊 Minhas Estatísticas</h2>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xjeansantana&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjeansantana&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Linguagens mais usadas" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xjeansantana&show_icons=true&theme=radical&hide_border=true&locale=pt-br" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjeansantana&layout=compact&theme=radical&hide_border=true&langs_count=7" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xjeansantana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xjeansantana&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -66,5 +66,5 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 <br/>
 
 <div align="center">
-  <sub>Desenvolvido com ☕ e ❤️ por Jean Santana.</sub>
+  <sub>Desenvolvido com ☕ por Jean Santana.</sub>
 </div>
