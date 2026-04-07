@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <h3>Conecte-se comigo:</h3>
   <a href="https://www.linkedin.com/in/xjeansantana" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -19,25 +18,24 @@
 
 ---
 
+### 🧑‍💻 Sobre Mim
+
+Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções eficientes e escaláveis. Minha stack principal envolve o desenvolvimento web moderno com **React** no front-end e a robustez do **C# / .NET** no back-end.
+
+- 🔭 Atualmente explorando arquiteturas de microserviços.
+- 🌱 Aprimorando conhecimentos em **TypeScript** e **Cloud Computing**.
+- 💬 Aberto a colaborações em projetos Open Source.
+- ⚡ Hobby: Apaixonado por tecnologia e games.
+
+---
+
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
-  <p>As ferramentas e linguagens que utilizo para dar vida a ideias.</p>
-  
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,dotnet,docker,git,github,vscode,postman&theme=dark" />
+  </a>
 </div>
 
-<br/>
 <br/>
 
 ---
@@ -47,12 +45,12 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xjeansantana&show_icons=true&theme=transparent&hide_border=true&title_color=white&icon_color=61DAFB&text_color=bfbfbf&text_bold=false&locale=pt-br" alt="Estatísticas do GitHub de Jean" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjeansantana&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=bfbfbf&text_bold=false&langs_count=7" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xjeansantana&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjeansantana&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xjeansantana&theme=transparent&hide_border=true&title_color=white&icon_color=61DAFB&text_color=bfbfbf&fire=white" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xjeansantana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -60,14 +58,13 @@
 ---
 
 <div align="center">
-  <h2>🐍 Meu Gráfico de Contribuições</h2>
+  <h2>🐍 Snake Contribution</h2>
   <br/>
   <img src="https://raw.githubusercontent.com/xjeansantana/xjeansantana/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
-<br/>
 
 <div align="center">
-  <sub>Layout adaptado e customizado por Jean Santana. ❤️</sub>
+  <sub>Desenvolvido com ☕ e ❤️ por Jean Santana.</sub>
 </div>
