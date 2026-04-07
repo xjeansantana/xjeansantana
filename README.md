@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/xjeansantana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    
-  <a href="https://instagram.com/xjeansantana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:jean.santtana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/xjeansantana" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    
+  <a href="https://instagram.com/xjeansantana" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:jean.santtana@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <br/>
@@ -16,31 +16,22 @@
   <h2>📊 My GitHub Dashboard</h2>
 </div>
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjeansantana&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7" alt="Linguagens" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=xjeansantana&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7" alt="Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=xjeansantana&theme=tokyonight&hide_border=true&stroke=7aa2f7" alt="Streak" />
-    </td>
-    <td width="50%">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xjeansantana&theme=tokyonight" alt="Detalles" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xjeansantana&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjeansantana&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xjeansantana&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xjeansantana&theme=tokyonight" />
+</div>
 
 <br/>
 
 ---
 
 <div align="center">
-  <h2>🛠️ Tecnologias</h2>
+  <h2>🛠️ Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,dotnet,docker,git,github,vscode,postman&theme=dark" />
 </div>
 
@@ -56,5 +47,5 @@
 <br/>
 
 <div align="center">
-  <sub>Dashboard atualizado dinamicamente. Último acesso em: 2026</sub>
+  <sub>Dashboard atualizado dinamicamente. ❤️</sub>
 </div>
