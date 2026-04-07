@@ -18,19 +18,8 @@
 
 ---
 
-### 🧑‍💻 Sobre Mim
-
-Sou um desenvolvedor apaixonado por transformar ideias em código. Atualmente foco minhas energias no desenvolvimento web moderno, unindo a performance do **C# / .NET** com a agilidade do **React**.
-
-- 🔭 Atualmente trabalhando em projetos Full Stack.
-- 🌱 Aprofundando em **Arquitetura de Software** e **TypeScript**.
-- 💬 Pode me chamar para falar sobre desenvolvimento web e tecnologia.
-- ⚡ Curiosidade: Sempre em busca de aprender uma nova ferramenta.
-
----
-
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,dotnet,docker,git,github,vscode,postman&theme=dark" />
   </a>
@@ -66,5 +55,5 @@ Sou um desenvolvedor apaixonado por transformar ideias em código. Atualmente fo
 <br/>
 
 <div align="center">
-  <sub>Desenvolvido com ☕ por Jean Santana.</sub>
+  <sub>Desenvolvido com ❤️ por Jean Santana.</sub>
 </div>
